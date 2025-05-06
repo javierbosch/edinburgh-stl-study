@@ -36,3 +36,12 @@ But when looking form the Airbnb side, the main one is [Joivy Scotland](https://
 
 ## Challenges
 At this time, it is not possible to easily map a listing to a license. We have the address of the licenses, but only the approximate coordinates of the Airnbbs.  
+
+
+## Relevant links:
+1. https://www.edinburgh.gov.uk/directory-record/1542802/short-term-lets
+2. insideairbnb.com
+3. https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.edinburgh.gov.uk%2Fdownloads%2Ffile%2F32198%2Fshort-term-lets&wdOrigin=BROWSELINK
+4. https://www.gov.scot/binaries/content/documents/govscot/publications/research-and-analysis/2019/10/research-impact-short-term-lets-communities-scotland/documents/people-communities-places-research-impact-short-term-lets-communities-scotland/people-communities-places-research-impact-short-term-lets-communities-scotland/govscot%3Adocument/people-communities-places-research-impact-short-term-lets-communities-scotland.pdf
+5. https://www.gov.scot/publications/short-term-licensing-implementation-update-report-2024
+6. https://www.edinburgh.gov.uk/planning-13/proposal-designate-short-term-let-control-area
