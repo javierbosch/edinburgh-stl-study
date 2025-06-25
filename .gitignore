@@ -1,1 +1,4 @@
-.venv
+.claude
+.env
+node_modules/
+old-data/
